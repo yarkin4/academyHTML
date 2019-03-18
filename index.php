@@ -6,6 +6,8 @@
 	<link ref="stylesheet" src="css/style.css">
 </head>
 <body>
-	
+	<? include 'header.php'; ?>
+	<? include 'main.php'; ?>
+	<? include 'footer.php'; ?>
 </body>
 </html>
