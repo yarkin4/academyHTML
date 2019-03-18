@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<!-- <meta charset="utf-8"> -->
-	<title>Академия HTML</title>
-	<link ref="stylesheet" src="css/style.css">
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Академия HTML</title>
 </head>
+	
 <body>
 	<? include 'header.php'; ?>
 	<? include 'main.php'; ?>
