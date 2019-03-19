@@ -2,14 +2,14 @@
   <b>Html academy</b>
   <div class="step_inform">
   <ul class="steps_iform">
-    <li><a href="#">о нас</a></li>
-    <li><a href="#">наши контакты</a></li>
-    <li><a href="#">поддержка</a></li>
-    <li><a href="#">обратная связь</a></li>
-    <li><a href="#">наша команда и выпускники</a></li>
-    <li><a href="#">наши цены</a></li>
-    <li><a href="#">регистрация</a></li>
-    <li><a href="#">онлайн поддержка</a></li>
+    <li><a href="#"><b>о нас</b></a></li>
+    <li><a href="#"><b>наши контакты</b></a></li>
+    <li><a href="#"><b>поддержка</b></a></li>
+    <li><a href="#"><b>обратная связь</b></a></li>
+    <li><a href="#"><b>наша команда и выпускники</b></a></li>
+    <li><a href="#"><b>наши цены</b></a></li>
+    <li><a href="#"><b>регистрация</b></a></li>
+    <li><a href="#"><b>онлайн поддержка</b></a></li>
     </ul>
   </div>
   <div class="poyemet_metods_icon">
